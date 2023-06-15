@@ -1,7 +1,7 @@
 package application;
 
 public class Piece {
-	public String nom;
+	public String nom;//"pion";
 	enum coul {b,n};//blanc ou noir
 	coul couleur;
 	
